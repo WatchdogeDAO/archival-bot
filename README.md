@@ -6,3 +6,9 @@ It will only work if your twitter account has been whitelisted by the DAO.
 # Usage
 
 You will need credentials for a twitter app, and access tokens for the account that will do the tweeting. There's a .env.example file to help.
+
+# Important
+
+The current implementation of the bot is running on node in the [https://github.com/WatchdogeDAO/archival-api](https://github.com/WatchdogeDAO/archival-api) repo.
+
+
